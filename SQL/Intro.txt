@@ -1,0 +1,36 @@
+==> Database :-
+    -> Database is an organized place where collections of data is kept.
+    -> It has collections of methods which is used to manipulate and access data
+    examples:
+        -> MongoDB, Mysql, Oracle, Postgresql, Redis,MariaDb, SQLite ..etc
+
+==> Database Vs DBMS:
+-> DBMS (Database management system)
+-> DBMS is a bridge between the application and Database
+-> DBMS are
+    -> postgresql, mysql, oracle, ..etc
+
+==> RDBMS :-
+-> Relational database management system.
+-> RDBMS store data in structural format which is in row and column format (table).
+-> RDBMS used sql to manage and querying data.
+
+===> SQL :
+-> it is a query language used to talk to relational databases.
+-> Select * from TableName
+
+==> Postgresql cli:
+-> '\l' -> to see all database
+-> '\c' -> to switch one to other database
+
+==> Queries:
+-> SELECT datname from pg_database; -> to list down all databases;
+-> \c database_name; -> to switch db;
+-> DROP DATABASE database_name;
+
+==> Table :-
+    Tables are the collection of related  data which hold data in row column form .
+    
+==> CRUD :-
+
+==> Queries=>
